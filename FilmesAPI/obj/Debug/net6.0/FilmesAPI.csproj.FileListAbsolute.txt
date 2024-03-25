@@ -30,3 +30,10 @@ C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\refint
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
