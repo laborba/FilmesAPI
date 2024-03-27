@@ -45,3 +45,5 @@ C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Micros
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
