@@ -43,4 +43,14 @@ public class FilmeController : ControllerBase
         if (filme == null) return NotFound();                   // Padronizado estilo Rest
         return Ok(filme);
     }
+
+    [HttpPut ("{id}")]
+    public IActionResult AtualizaFilme(int id, [FromBody] UpdateFilmeDto filmeDto)
+    {
+        var filme = _context.Filmes.FirstOrDefault(filme => filme.Id == id);
+        if (filme == null) return NotFound();
+        _mapper.Map(filmeDto, filme);
+        _context.SaveChanges();
+        return NoContent();
+    }
 }
