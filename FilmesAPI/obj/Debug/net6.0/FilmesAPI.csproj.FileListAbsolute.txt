@@ -39,3 +39,5 @@ C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\MySqlC
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
 C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\temp\aulas alura Csharp\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
