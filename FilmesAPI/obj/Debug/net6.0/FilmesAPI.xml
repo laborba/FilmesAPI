@@ -13,7 +13,7 @@
             <response code="201">Caso inserção seja feita com sucesso</response>
             <response code="404">Caso a inserção falhe por falta de informação</response>
         </member>
-        <member name="M:FilmesAPI.Controllers.FilmeController.RecuperarFilmes(System.Int32,System.Int32)">
+        <member name="M:FilmesAPI.Controllers.FilmeController.RecuperarFilmes(System.Int32,System.Int32,System.String)">
             <summary>
             Traz a lista dos filmes existentes no banco de dados
             </summary>
